@@ -1,0 +1,17 @@
+{
+  "name": "awesome",
+  "version": "1.0.0",
+  "description": "A curated list of free resources.  收集免费资源（适合创业小团队、个人学习等使用）",
+  "scripts": {
+    "test": "awesome-lint",
+    "doctoc": "doctoc ./readme.md",
+    "prepare": "husky install"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.18.0",
+    "doctoc": "^2.1.0",
+    "husky": "^7.0.4"
+  },
+  "author": "Willin Wang",
+  "license": "CC0"
+}
