@@ -61,6 +61,7 @@ Flags:
 - [Github Education](https://education.github.com/) 支持中国 .edu.cn 学生邮箱注册
 - [Notion](https://notion.so/?utm_campaign=willin) 笔记/知识库分享，支持中国 .edu.cn 学生邮箱注册
 - [Read.cv](https://read.cv/join/willin) 英文简历上岸
+- [Coursera](https://www.coursera.org/for-university-and-college-students/) 学生计划无限制房屋指导项目和每年免费学习 1 门课程
 
 ### Devices / 设备
 
