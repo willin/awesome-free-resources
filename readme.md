@@ -18,6 +18,7 @@ Flags:
 
 - [Cloud / 云资源](#cloud--%E4%BA%91%E8%B5%84%E6%BA%90)
   - [Serverless / 无服务器](#serverless--%E6%97%A0%E6%9C%8D%E5%8A%A1%E5%99%A8)
+  - [Database / 数据存储](#database--%E6%95%B0%E6%8D%AE%E5%AD%98%E5%82%A8)
   - [Domain / 域名](#domain--%E5%9F%9F%E5%90%8D)
   - [DNS / CDN](#dns--cdn)
 - [Education / 教育优惠](#education--%E6%95%99%E8%82%B2%E4%BC%98%E6%83%A0)
@@ -42,8 +43,12 @@ Flags:
 - [AWS Lambda](https://aws.amazon.com/cn/lambda) :cn: 免费额度：每月 100 万次请求， 400000GB 秒计算时间
 - [Serverless](https://cloud.serverless.com) 免费额度：每月 1000 分钟（约 20 万请求），5GB 存储，不可自定义域名
 - [Vercel](https://vercel.com) Develop. Preview. Ship. 个人永久免费（可替代 Github Pages 支持动态内容。原来的 now.sh）
-- [Upstash](https://upstash.com/) Serverless Redis，免费额度 10k 请求每天
+
+### Database / 数据存储
+
+- [Upstash](https://upstash.com/) Serverless Redis，免费额度： 10k 请求每天
 - [DigitalOcean](https://m.do.co/c/bf3884bf4471) :dollar: Free 3 static sites. 主要是提供了安全的 MySQL 托管服务，配合 Vercel 使用
+- [PlanetScale](https://planetscale.com/) Serverless MySQL, 免费额度：10GB 存储/月 100M Raw 读写/月
 
 ### Domain / 域名
 
