@@ -41,6 +41,9 @@ Flags:
 - [Aliyun CF 阿里云函数计算](https://www.aliyun.com/product/fc?source=5176.11533457&userCode=j1tqazak) :mahjong: :cn: 免费额度： 46 元/m 额度限当月使用
 - [AWS Lambda](https://aws.amazon.com/cn/lambda) :cn: 免费额度：每月 100 万次请求， 400000GB 秒计算时间
 - [Serverless](https://cloud.serverless.com) 免费额度：每月 1000 分钟（约 20 万请求），5GB 存储，不可自定义域名
+- [Vercel](https://vercel.com) Develop. Preview. Ship. 个人永久免费（可替代 Github Pages 支持动态内容。原来的 now.sh）
+- [Upstash](https://upstash.com/) Serverless Redis，免费额度 10k 请求每天
+- [DigitalOcean](https://m.do.co/c/bf3884bf4471) :dollar: Free 3 static sites. 主要是提供了安全的 MySQL 托管服务，配合 Vercel 使用
 
 ### Domain / 域名
 
