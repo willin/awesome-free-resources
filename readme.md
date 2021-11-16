@@ -55,6 +55,8 @@ Flags:
 - [.js.cool](https://github.com/js-cool/js-cool) :mahjong: :cn:
 - [.js.org](https://github.com/js-org/js.org)
 - [.tk / .ml / .ga / .cf / .gq](https://www.freenom.com) :cn:
+- [West CN New gTLDs](https://www.west.cn/active/freetc/?ReferenceID=1178840) :mahjong: :cn: :dollar: 西部数码国内较全的低价新顶级域名
+- [1API New gTLDs](https://hexonet.net) :dollar: 可以支付宝美元支付
 
 ### DNS / CDN
 
