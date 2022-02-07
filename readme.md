@@ -49,6 +49,7 @@ Flags:
 - [Upstash](https://upstash.com/) Serverless Redis，免费额度： 10k 请求每天
 - [DigitalOcean](https://m.do.co/c/bf3884bf4471) :dollar: Free 3 static sites. 主要是提供了安全的 MySQL 托管服务，配合 Vercel 使用
 - [PlanetScale](https://planetscale.com/) Serverless MySQL, 免费额度：10GB 存储/月 100M Raw 读写/月
+- [Atlas](https://www.mongodb.com/atlas/database) Serverless MongoDB, 免费额度：512m 存储，共享内存
 
 ### Domain / 域名
 
